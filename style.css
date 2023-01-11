@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #D5E1EF;
+}
+
+section{
+    height: 100vh;
+}
+
+.container{
+    width: 320px;
+    height: 497px;
+    background-color: white;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    border-radius: 20px;    
+}
+
+
+/* qr card parent div */
+.page{
+    padding: 16px 16px 16px 16px;
+}
+
+/* qr-code image */
+.qr-code{
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+    margin-bottom: 24px;
+}
+
+
+/* Improve your front-end skills by building projects */
+.main-text{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 22px;
+    color: #1F314F;
+    margin-bottom: 16px;
+}
+
+
+/* Scan the QR code to visit Frontend Mentor and take your coding skills to the next level */
+.text{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 15px;
+    color: #7D889E;
+    padding: 0 16px 24px 16px;  
+}
+
